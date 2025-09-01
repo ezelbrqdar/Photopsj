@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Upscaler 2K",
+  "description": "An application that allows users to upload an image and upscale it to 2K resolution using AI. It provides a real-time preview of the original and upscaled images, enhances details, reduces noise, and allows downloading the final high-resolution image.",
+  "requestFramePermissions": []
+}
